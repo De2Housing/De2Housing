@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @De2Housing
+- 👋 Hi, I’m Parjanya Aditya Shukla (@De2Housing)
 -  In ❤ with Technology and Maths
 - 👀 I’m interested in Mobile App Development, Technology and Innovation
 - 🌱 I’m currently learning React Native
